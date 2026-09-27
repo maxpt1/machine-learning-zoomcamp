@@ -3,7 +3,7 @@
 ### Set up the environment
 
 You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can use the instructions from
-[06-environment.md](../../../01-intro/06-environment.md).
+[06-environment.md](../../2026/01-intro/06-environment.md).
 
 ### Q1. Pandas version
 
@@ -102,4 +102,4 @@ Has it changed?
 ## Submit the results
 
 * Submit your results here: https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw01
-* If your answer doesn't match options exactly, select the closest one
+* If your answer doesn't match options exactly, select the closest one. If the answer is exactly in between two options, select the higher value.

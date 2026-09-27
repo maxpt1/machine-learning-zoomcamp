@@ -17,7 +17,6 @@
 - 2.15 [Using the model](15-using-model.md)
 - 2.16 [Car price prediction project summary](16-summary.md)
 - 2.17 [Explore more](17-explore-more.md)
-- 2.18 [Homework](homework.md)
 
 
 
@@ -40,5 +39,6 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Notes from Oscar Garcia](https://github.com/ozkary/machine-learning-engineering/tree/main/02-regression)
 * [Notes from Maximilien Eyengue](https://github.com/maxim-eyengue/Python-Codes/blob/main/ML_Zoomcamp_2024/02_regression/Summary_Session_02.md)
 * [Notes from Kemal Dahha](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb)
+* [Cohort 2025 | Notes By Nitin Gupta](https://github.com/niting9881/ML-zoomcamp-local/blob/main/02-regression/Linear_Regression_FAQ.md)
 * Add your notes here
 

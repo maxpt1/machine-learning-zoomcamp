@@ -3,6 +3,7 @@
 > Note: sometimes your answer doesn't match one of the options exactly. 
 > That's fine. 
 > Select the option that's closest to your solution.
+> If it's exactly in between two options, select the higher value.
 
 > Note: we recommend using python 3.11 in this homework.
 
@@ -42,13 +43,13 @@ model = LogisticRegression().fit(X, y)
 
 And then saved with Pickle. Download them:
 
-* [DictVectorizer](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2024/05-deployment/homework/dv.bin?raw=true)
-* [LogisticRegression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2024/05-deployment/homework/model1.bin?raw=true)
+* [DictVectorizer](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/cohorts/2024/05-deployment/homework/dv.bin?raw=true)
+* [LogisticRegression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/cohorts/2024/05-deployment/homework/model1.bin?raw=true)
 
 With `wget`:
 
 ```bash
-PREFIX=https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/master/cohorts/2024/05-deployment/homework
+PREFIX=https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2024/05-deployment/homework
 wget $PREFIX/model1.bin
 wget $PREFIX/dv.bin
 ```
@@ -105,7 +106,7 @@ What's the probability that this client will get a subscription?
 
 ## Docker
 
-Install [Docker](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/05-deployment/06-docker.md). 
+Install [Docker](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/05-deployment/06-docker.md). 
 We will use it for the next two questions.
 
 For these questions, we prepared a base image: `svizor/zoomcamp-model:3.11.5-slim`. 
@@ -184,4 +185,4 @@ What's the probability that this client will get a subscription now?
 ## Submit the results
 
 * Submit your results here: https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05
-* If your answer doesn't match options exactly, select the closest one
+* If your answer doesn't match options exactly, select the closest one. If the answer is exactly in between two options, select the higher value.

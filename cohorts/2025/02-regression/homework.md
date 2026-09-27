@@ -3,6 +3,7 @@
 > Note: sometimes your answer doesn't match one of 
 > the options exactly. That's fine. 
 > Select the option that's closest to your solution.
+> If it's exactly in between two options, select the higher value.
 
 ### Dataset
 
@@ -82,7 +83,7 @@ Options:
 * Round the RMSE scores to 2 decimal digits.
 * Which `r` gives the best RMSE?
 
-If there are multiple options, select the smallest `r`.
+If multiple options give the same best RMSE, select the smallest `r`.
 
 Options:
 
@@ -133,4 +134,4 @@ Options:
 ## Submit the results
 
 * Submit your results here: https://courses.datatalks.club/ml-zoomcamp-2025/homework/hw02
-* If your answer doesn't match options exactly, select the closest one
+* If your answer doesn't match options exactly, select the closest one. If the answer is exactly in between two options, select the higher value.
